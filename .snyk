@@ -16,5 +16,4 @@ patch: {}
 exclude:
   global:
     - app.js
-    - package.json
     - routes/login.js
